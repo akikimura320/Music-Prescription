@@ -1,2 +1,3 @@
-# Music-Prescription
-This is my first repo, so don't judge the choice of projects
+# Project P4X 
+This is my first repo, and I try to make things work
+
